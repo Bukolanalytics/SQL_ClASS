@@ -1,2 +1,5 @@
-# SQL_ClASS
-My SQL Class Repository
+# MY SQL TUTORIAL SESSIONS
+QUERY ONE
+```
+SELECT * FROM Customers;
+```
